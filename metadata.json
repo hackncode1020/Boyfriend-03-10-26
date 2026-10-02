@@ -1,0 +1,6 @@
+{
+  "name": "Boyfriend Day — Best Boyfriend Award",
+  "description": "A premium cinematic love animation and official Best Boyfriend Award celebration with blooming flowers, heartbeat, and customizable certificate.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
